@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Just another coer learning to use github!
+Just another coder learning to use github!
