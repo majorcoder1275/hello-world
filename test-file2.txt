@@ -1,2 +1,4 @@
 hello world
 Added one
+Added two
+Added three
